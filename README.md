@@ -1,3 +1,3 @@
 # OliviaWYQ.github.io
 
-# A personal website (under construction).
+Welcome to my personal website.

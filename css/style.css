@@ -58,8 +58,10 @@ a:hover, a:active, a:focus {
   text-decoration: none;
 }
 
+
 p {
-  margin-bottom: 30px;
+    margin-bottom: 30px;
+    text-align:justify;
 }
 
 h1, h2, h3, h4, h5, h6, figure {

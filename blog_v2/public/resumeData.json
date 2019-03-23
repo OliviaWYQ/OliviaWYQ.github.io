@@ -2,12 +2,12 @@
   "main": {
     "name":"Olivia Wang",
     "occupation":"",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "Skilled in Python, machine learning and full-stack development. Active member in voluntary work and amateur artist in campus publications. Eager learner in novel computer technology, and dreams of creating beautiful software products for humanity. Columbia master student in Computer Engineering, with undergraduate degree in Electrical Engineering.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "yw3225@columbia.com",
-    "phone": "646-207-9296",
+    "phone": "(+1) 646-207-9296",
     "address":{
       "street":"116th St & Broadway",
       "city":"New York",
@@ -47,43 +47,46 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Columbia University, New York, NY",
+        "degree": "M.S. in Computer Engineering",
+        "graduated": "Aug 2018 - Expected Dec 2019",
+        "description": "Relevant Coursework: Advanced Software Engineering, Introduction to Databases, Bayesian Models for Machine Learning, Analysis of Algorithm, Internet of Things"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Beijing University of Posts and Telecommunications, Beijing, CN",
+        "degree": "B.E. in Communication Engineering",
+        "graduated": "Sep 2014 - Jun 2018",
+        "description": "Relevant Coursework: Pattern Recognition and Applications, C++ Programming, Java Programming, Computer Networks and Internet, Linux Operating System Fundamentals"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Chinese Academy of Sciences, Institute of Automation, Beijing, CN",
+        "title": "Research Assistant",
+        "years": "Jul 2017 - May 2018",
+        "description_1": "• Created an automatic makeup and remover algorithm base on TensorFlow.",
+        "description_2": "• Applied pattern recognition, machine learning and deep learning algorithms."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"Python",
+        "level":"90%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
       },
       {
         "name":"ReactJs",
@@ -91,65 +94,55 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"70%"
       },
       {
         "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"MATLAB",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Creators Visual Programming Software",
+        "category": "Utilized React.js to develop a front-end graphical user interface base on Scratch 3.0.",
+        "image":"creators.png",
+        "url": "https://github.com/OliviaWYQ/scratch-gui"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Alpha Gomoku Game",
+        "category": "Built up an online Alpha Gomoku desktop game by PyQt in a Java web server environment.",
+        "image": "gomoku.png",
+        "url": "https://www.youtube.com/watch?v=tKCVi8650Y0"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Automatic Makeup and Remover Algorithm",
+        "category": "Created an automatic makeup and remover algorithm base on TensorFlow.",
+        "image":"makeup.jpeg",
+        "url": "https://github.com/OliviaWYQ/Auto-Makeup-Algorithm"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Interactive Quadcopter",
+        "category": "Added functions in height and position determination in Microduino quadcopters.",
+        "image":"quadcopter.jpg",
+        "url": "https://v.youku.com/v_show/id_XMTczNzkzMjcwOA==.html?spm=a2hzp.8244740.0.0"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "Yiqian thrives at finding solutions and collaborating. At the National Laboratory of Pattern Recognition, she determined how to apply the Generative Adversarial Network to her code, overcoming the lack of machine learning courses at her university. She decided to further her education at Columbia University, where she works toward a master’s degree in Computer Engineering. As a student, she led a four-person team to build an Alpha Gomoku Game, solving disagreements and finding the best solution in limited time. She is an encouraging and diligent team player. Her ability to problem-solve and cooperate will enable her to succeed in the future.",
+        "user": "Laura Allen"
       }
     ]
   }

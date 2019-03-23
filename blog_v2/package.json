@@ -2,8 +2,10 @@
   "name": "blog_v2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https: //OliviaWYQ.github.io/"
   "dependencies": {
     "@babel/polyfill": "^7.4.0",
+    "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",

@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Olivia Wang",
+    "occupation":"",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio": "Skilled in Python, machine learning and full-stack development. Active member in voluntary work and amateur artist in campus publications. Eager learner in novel computer technology, and dreams of creating beautiful software products for humanity. Columbia master student in Computer Engineering, with undergraduate degree in Electrical Engineering.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "yw3225@columbia.com",
+    "phone": "(+1) 646-207-9296",
+    "address":{
+      "street":"116th St & Broadway",
+      "city":"New York",
+      "state":"NY",
+      "zip": "10027"
+    },
+    "website": "OliviaWYQ.github.io",
+    "resumedownload": "https://drive.google.com/file/d/1CWdZmVExpNIb0sbpGTwG6bi2kf3zNbkP/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url": "https://www.facebook.com/olivia.wang.92167",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url": "https://twitter.com/olivia47966537",
+        "className":"fa fa-twitter"
+      },
+  
+      {
+        "name":"linkedin",
+        "url": "https://www.linkedin.com/in/olivia17/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url": "https://www.instagram.com/Olivia_wyq/?hl=en",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url": "https://github.com/OliviaWYQ",
+        "className":"fa fa-github"
+      }
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school": "Columbia University, New York, NY",
+        "degree": "M.S. in Computer Engineering",
+        "graduated": "Aug 2018 - Expected Dec 2019",
+        "description": "Relevant Coursework: Advanced Software Engineering, Introduction to Databases, Bayesian Models for Machine Learning, Analysis of Algorithm, Internet of Things"
+      },
+      {
+        "school": "Beijing University of Posts and Telecommunications, Beijing, CN",
+        "degree": "B.E. in Communication Engineering",
+        "graduated": "Sep 2014 - Jun 2018",
+        "description": "Relevant Coursework: Pattern Recognition and Applications, C++ Programming, Java Programming, Computer Networks and Internet, Linux Operating System Fundamentals"
+      }
+    ],
+    "work":[
+      {
+        "company": "Chinese Academy of Sciences, Institute of Automation, Beijing, CN",
+        "title": "Research Assistant",
+        "years": "Jul 2017 - May 2018",
+        "description_1": "• Created an automatic makeup and remover algorithm base on TensorFlow.",
+        "description_2": "• Applied pattern recognition, machine learning and deep learning algorithms."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"MATLAB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "Creators Visual Programming Software",
+        "category": "Utilized React.js to develop a front-end graphical user interface base on Scratch 3.0.",
+        "image":"creators.png",
+        "url": "https://github.com/OliviaWYQ/scratch-gui"
+      },
+      {
+        "title": "Alpha Gomoku Game",
+        "category": "Built up an online Alpha Gomoku desktop game by PyQt in a Java web server environment.",
+        "image": "gomoku.png",
+        "url": "https://www.youtube.com/watch?v=tKCVi8650Y0"
+      },
+      {
+        "title": "Automatic Makeup and Remover Algorithm",
+        "category": "Created an automatic makeup and remover algorithm base on TensorFlow.",
+        "image":"makeup.jpeg",
+        "url": "https://github.com/OliviaWYQ/Auto-Makeup-Algorithm"
+      },
+      {
+        "title": "Interactive Quadcopter",
+        "category": "Added functions in height and position determination in Microduino quadcopters.",
+        "image":"quadcopter.jpg",
+        "url": "https://v.youku.com/v_show/id_XMTczNzkzMjcwOA==.html?spm=a2hzp.8244740.0.0"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text": "Yiqian thrives at finding solutions and collaborating. At the National Laboratory of Pattern Recognition, she determined how to apply the Generative Adversarial Network to her code, overcoming the lack of machine learning courses at her university. She decided to further her education at Columbia University, where she works toward a master’s degree in Computer Engineering. As a student, she led a four-person team to build an Alpha Gomoku Game, solving disagreements and finding the best solution in limited time. She is an encouraging and diligent team player. Her ability to problem-solve and cooperate will enable her to succeed in the future.",
+        "user": "Laura Allen"
+      }
+    ]
+  }
+}

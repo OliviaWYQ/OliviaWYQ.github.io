@@ -8,6 +8,7 @@
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-ga": "^2.5.7",
+    "react-pdf": "^4.0.5",
     "react-scripts": "2.1.8"
   },
   "scripts": {

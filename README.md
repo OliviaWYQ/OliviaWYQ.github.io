@@ -1,2 +1,1 @@
-# OliviaWYQ.github.io
-Personal Website for Yiqian Wang
+# [Yiqian Wang's Personal Website](https://oliviawyq.github.io/mypage/)
